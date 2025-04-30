@@ -52,7 +52,6 @@ def submit_form():
         return
 
     lifter = Lifter(name, gender, weight_class, division, "", "", "")
-    manager.add_lifter(lifter)
     open_attempts_page(lifter)
     clear_form()
 
