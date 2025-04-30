@@ -67,12 +67,12 @@ To test the app:
 
 ## Challenges, Role of AI, Insights
 
-During development, I initially tried using Dart/Flutter to build the app, but encountered several difficulties with crashes and issues that were hard to debug. I then switched to Python, a language I am more familiar with, and found it much easier to identify and fix problems. One challenge I faced was related to saving lifter data to a CSV file. Initially, the app was saving data locally, but I couldn’t get it to generate a CSV file that could be opened. After some debugging, I was able to resolve this...
+During development, I initially tried using Dart/Flutter to build the app, but encountered several difficulties with crashes and issues that were hard to debug. I then switched to Python, a language I am more familiar with, and found it much easier to identify and fix problems. One challenge I faced was related to saving lifter data to a CSV file. Initially, the app was saving data locally, but I couldnâ€™t get it to generate a CSV file that could be opened. After some debugging, I was able to resolve this...
 
 AI was useful in troubleshooting certain issues. It helped me understand error messages and provided insights on linking features like file handling and graphical UI improvements. However, there were times when the suggestions were partially helpful and required tweaking. Through this process, I learned a lot about GUI design, the importance of a clean and user-friendly interface, and how to handle backend logic for saving and displaying user data.
 
 ## Next Steps
 
-If I had more time, I would refactor the app to use Dart/Flutter to make it a web-based application. While I enjoyed working with Flutter, I didn’t have enough time to fully explore it and implement it in the project. Additionally, I would expand the registration form to capture more detailed information, as powerlifting registration is typically much more in-depth than the current version of the app.
+If I had more time, I would refactor the app to use Dart/Flutter to make it a web-based application. While I enjoyed working with Flutter, I didnâ€™t have enough time to fully explore it and implement it in the project. Additionally, I would expand the registration form to capture more detailed information, as powerlifting registration is typically much more in-depth than the current version of the app.
 
-In the future, I would like to add features like tracking lifters’ progress over time, integrating a competition scheduling system, and providing leaderboards based on results. These additions would make the app more valuable to powerlifters, coaches, and event organizers.
+In the future, I would like to add features like tracking liftersâ€™ progress over time, integrating a competition scheduling system, and providing leaderboards based on results. These additions would make the app more valuable to powerlifters, coaches, and event organizers.
