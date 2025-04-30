@@ -1,7 +1,7 @@
 
 # Powerlifting Meet Registration App
-#Wada Tafesse
-#4.30.2025
+Wada Tafesse
+4.30.2025
 
 ## Project Introduction
 
